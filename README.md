@@ -17,3 +17,4 @@ The second mini project for web-dev team.
 ### Design specs:
 - Check out different css frameworks, like Bulma, Semantic UI, and others to add flavor to the site
 
+ :sun_with_face: **YAAYY!!** :sun_with_face:
